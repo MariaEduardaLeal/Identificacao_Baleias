@@ -13,6 +13,9 @@ humpback-whale-identification/train/*.gif
 humpback-whale-identification/train/*.bmp
 humpback-whale-identification/train/*.tiff
 
+humpback-whale-identification/sample_submission.csv
+humpback-whale-identification/train.csv
+
 # Outros arquivos ou pastas para ignorar
 *.log
 *.tmp
