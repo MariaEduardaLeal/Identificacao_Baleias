@@ -1,0 +1,18 @@
+# Ignorar todos os arquivos de imagem nas pastas test e train
+humpback-whale-identification/test/*.jpg
+humpback-whale-identification/test/*.png
+humpback-whale-identification/test/*.jpeg
+humpback-whale-identification/test/*.gif
+humpback-whale-identification/test/*.bmp
+humpback-whale-identification/test/*.tiff
+
+humpback-whale-identification/train/*.jpg
+humpback-whale-identification/train/*.png
+humpback-whale-identification/train/*.jpeg
+humpback-whale-identification/train/*.gif
+humpback-whale-identification/train/*.bmp
+humpback-whale-identification/train/*.tiff
+
+# Outros arquivos ou pastas para ignorar
+*.log
+*.tmp
